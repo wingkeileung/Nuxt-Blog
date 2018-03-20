@@ -14,6 +14,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: pkg.description }
     ],
     link: [
+      { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Arvo:400,700" },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
